@@ -1,0 +1,21 @@
+{
+  "name": "dark-lion-theme",
+  "displayName": "Dark Lion Theme",
+  "description": "A dark, colorful and semantic theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Lion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Lion-color-theme.json"
+      }
+    ]
+  }
+}
