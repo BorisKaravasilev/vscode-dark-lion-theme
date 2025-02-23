@@ -17,5 +17,6 @@
         "path": "./themes/Dark Lion-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": "https://github.com/BorisKaravasilev/dark-lion-theme"
 }
