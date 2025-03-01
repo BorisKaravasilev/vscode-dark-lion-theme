@@ -166,6 +166,9 @@
 		"actionBar.toggledBackground": "#383a49",
 		"tree.indentGuidesStroke": "#9d9d9d",
 		"tree.inactiveIndentGuidesStroke": "#505050"
+		"tree.inactiveIndentGuidesStroke": "#505050",
+		// Command Center (Search Bar)
+		"commandCenter.activeForeground": "#FEFCE8",
 	},
 	"tokenColors": [
 		{
