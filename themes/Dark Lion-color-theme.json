@@ -60,7 +60,6 @@
 		"editorOverviewRuler.border": "#010409",
 		"editorWidget.background": "#202020",
 		"errorForeground": "#F85149",
-		"focusBorder": "#FACC15",
 		"focusBorder": "#facc15b2",
 		"foreground": "#CCCCCC",
 		"icon.foreground": "#CCCCCC",
@@ -165,7 +164,6 @@
 		"widget.border": "#303031",
 		"actionBar.toggledBackground": "#383a49",
 		"tree.indentGuidesStroke": "#9d9d9d",
-		"tree.inactiveIndentGuidesStroke": "#505050"
 		"tree.inactiveIndentGuidesStroke": "#505050",
 		// Command Center (Search Bar)
 		"commandCenter.activeForeground": "#FEFCE8",
