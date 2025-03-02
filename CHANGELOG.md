@@ -8,6 +8,12 @@ Below you can see the list of most notable changes made in each version. The "Un
 - Breaking down the theme into multiple files so that different variants can share the same foundation.
 - Adding multiple theme variants.
 
+## Version 1.0.1
+
+### Fixed
+
+- Fixed screenshot links.
+
 ## Version 1.0.0
 
 ### Added
