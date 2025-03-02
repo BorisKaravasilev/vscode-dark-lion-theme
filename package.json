@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"license": "CC BY-NC-SA 4.0",
 	"engines": {
-		"vscode": "^1.97.0"
+		"vscode": "*"
 	},
 	"categories": [
 		"Themes"
@@ -21,10 +21,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/BorisKaravasilev/dark-lion-theme"
+		"url": "https://github.com/BorisKaravasilev/vscode-dark-lion-theme"
 	},
 	"bugs": {
-		"url": "https://github.com/BorisKaravasilev/dark-lion-theme/issues"
+		"url": "https://github.com/BorisKaravasilev/vscode-dark-lion-theme/issues"
 	},
 	"keywords": [
 		"theme",
@@ -33,5 +33,5 @@
 		"semantic",
 		"lion"
 	],
-  "icon": "assets/logo.png"
+	"icon": "assets/icon.png"
 }
