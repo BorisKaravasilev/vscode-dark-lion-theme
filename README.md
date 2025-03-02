@@ -12,15 +12,15 @@ Differentiates in color between:
 - ![](https://placehold.co/15x15/FB7185/FB7185.png) keywords and ![](https://placehold.co/15x15/FCA5A5/FCA5A5.png) storage types (`async` vs. `const`)
 - ![](https://placehold.co/15x15/BAE6FD/BAE6FD.png) variables and ![](https://placehold.co/15x15/7DD3FC/7DD3FC.png) constants (`request` vs. `body`)
 
-![Dark Modern vs. Dark Lion Comparison](assets/comparison.gif)
+![Dark Modern vs. Dark Lion Comparison](https://github.com/BorisKaravasilev/vscode-dark-lion-theme/blob/master/assets/comparison.gif)
 _Comparison with the default Dark Modern theme._
 
 ## How to Change Your Theme
 
 You can change you theme by navigating to this menu in the bottom left corner:
 
-![How to change your theme from menu](assets/how-to-change-theme.png)
+![How to change your theme from menu](https://github.com/BorisKaravasilev/vscode-dark-lion-theme/blob/master/assets/how-to-change-theme.png)
 
 Alternatively, by opening the Command Palette by pressing `Cmd + Shift + P` and searching for `Color Theme`:
 
-![How to change your theme from command palette](assets/cmd-palette.png)
+![How to change your theme from command palette](https://github.com/BorisKaravasilev/vscode-dark-lion-theme/blob/master/assets/cmd-palette.png)
